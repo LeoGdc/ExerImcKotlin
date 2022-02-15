@@ -19,6 +19,12 @@
         android:layout_marginBottom="48dp"
         android:text="IMC"
         android:textSize="32sp" />
+
+    <EditText
+        android:id="@+id/Nome"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Nome"/>
     <EditText
         android:id="@+id/Peso"
         android:layout_width="200dp"
